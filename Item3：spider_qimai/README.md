@@ -20,7 +20,7 @@ https://www.qimai.cn/rank/index/brand/free/country/cn/genre/6005/device/iphone
 
 - url：https://www.qimai.cn/app/baseinfo/appid/414478124/country/cn
 - 版本：iOS
-- 基本信息：Logo、应用名称、开发商、开发商ID（乐职etid）、App ID、分类、价格（免费/付费）、应用截图、应用描述 ---> 一级页面，   二级A1
+- 基本信息：Logo、应用名称、开发商、开发商ID、App ID、分类、价格（免费/付费）、应用截图、应用描述 ---> 一级页面，   二级A1
 - 网站：支持网站、开发者网站、内容评级 ---> 二级页面
 - 榜单排名：iPhone实时排名-总榜、应用榜、社交榜；iPad实时排名-总榜、应用榜、社交榜
 - 评论统计：应用市场、平均评分、评论人数
@@ -31,7 +31,7 @@ https://www.qimai.cn/rank/index/brand/free/country/cn/genre/6005/device/iphone
 - ##### 应用详情——安卓版：
 - url：https://www.qimai.cn/andapp/baseinfo/appid/335517
 - 版本：安卓
-- 基本信息：Logo、应用名称、开发商、开发商ID（乐职etid）、分类、Bundel id、应用截图、应用描述
+- 基本信息：Logo、应用名称、开发商、开发商ID、分类、Bundel id、应用截图、应用描述
 - 评论统计：应用市场、平均评分、评论人数
 - 榜单排名：电子市场、市场分类、实时排名、排名统计时间
 - 移动端版本关联：关联同一个应用的iOS版和安卓版
